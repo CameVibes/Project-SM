@@ -36,9 +36,11 @@ salary|The employee's salary (U.S. dollars)
 ## Modeling and Evaluation
 
 Using a random forest model to determine feature importance in who employees would leave or stay in the company. The below plot shows that `last_evaluation`, `number_project`, `tenure` and `overworked` were the most important factors in determine if employees leave or stay. The overall model performed on test set with 93.4% AUC, 96.4% Accuracy, 88.9% Recall, 89.2% f1-socre and 89.4% precision.
+
 ![Random Forest most importance features](https://github.com/CameVibes/Project-SM/assets/134762914/a81abab6-4ace-4d01-9d1f-4e87384258bd)
 
 Using a decision tree model to determine feature importance in who employees would leave or stay in the company. The below plot shows that `number_project`, `last_evaluation`, `tenure` and `overworked` were the most important factors in determine if employees leave or stay. The decision tree model sighltly underperformed the decision tree model.
+
 ![Tree Model most importance features](https://github.com/CameVibes/Project-SM/assets/134762914/6ee44d6b-4b54-4b5c-bd3d-c1ac2262b778)
 
 
