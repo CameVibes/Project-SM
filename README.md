@@ -1,4 +1,4 @@
-# Logistic Regresion and Tree-based model to provied data-driven suggestions fot HR of Salifort Motors
+# Logistic Regresion and Tree-based model to provied data-driven suggestions for HR of Salifort Motors
 
 ## Project Overview
 The goal of this project was to create a logistic regression and tree-based model to predict if a employee would leave Salifort Motors. 
